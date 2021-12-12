@@ -1,5 +1,5 @@
 import './App.css';
-import ProfileComponent from './Profile/ProfileComponent';
+import ProfileComponent from './Components/Profile/ProfileComponent';
 import anim from "./anim.jpg"
 
 // import Bind from './components/Bind';
